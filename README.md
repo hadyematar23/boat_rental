@@ -178,10 +178,10 @@ pry(main)> sup_1.add_hour
 
 pry(main)> dock.charge(sup_1)
 # =>
-# {
-#   :card_number => "1313131313131313",
-#   :amount => 45
-# }
+{
+  :card_number => "1313131313131313",
+  :amount => 45
+}
 ```
 
 ## Iteration 4
